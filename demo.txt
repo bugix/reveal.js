@@ -20,4 +20,9 @@ Commit message "Plug in guitar, fixes #1"
 Merge conflict
 ---
 
+new branch hippy_feelings
+make changes to lyrics
+commit
+merge sad_vibes
+resolve
 
