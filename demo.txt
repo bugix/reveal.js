@@ -1,0 +1,23 @@
+Pull Request
+---
+
+Create new branch "fix_guitar"
+
+@Test
+void testGuitar() {
+	var guitar = applicationContext.getBean(Guitar.class);
+	assertNotEquals("huuuuuummmmmmmmmmmmmmm", guitar.generate(1));
+}
+
+Commit message "Add failing test for #1"
+
+Add sound to guitar
+
+Commit message "Plug in guitar, fixes #1"
+
+
+
+Merge conflict
+---
+
+
